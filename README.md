@@ -33,8 +33,8 @@ Getting Started
 1. [Install Android Studio](https://developer.android.com/studio/install.html),
 if you don't already have it.
 2. Download the example.
-2. Import the example into Android Studio.
-3. Build and run the example.
+3. Import the example into Android Studio.
+4. Build and run the example.
 
 Work Manager
 ------------
